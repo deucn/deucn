@@ -1,6 +1,5 @@
 - 👋 Hello, DEUCN here.
-- a GNU / FOSS advocate,
-- IT Solutions Architect,
+- a GNU / FOSS advocate and an IT Solutions Architect.
 
 <!---
 deucn/deucn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
